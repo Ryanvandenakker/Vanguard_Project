@@ -20,11 +20,11 @@ Three key performance indicators were used to determine the success of the new U
 - **Cost-Effectiveness Threshold:** The test indicated that the test group completion rate is not significantly greater than the control group rate plus 5%. This implies that although the new UI improved completion rate, the increase falls short of the 5% benchmark set by the Vanguard team
 
 ## Recommendations
-Further enhancements can be made to improve the customer experience and increase overall engagement. For instance, the team should look to decrease the time it takes to complete steps 2 and 3. Possibly by improving the prompts that were newly introduced to the UI. Additionally, higher error rates were observed in the new UI which should be addressed by improving the instructions and clarity of paticularly steps 1 and 2
+Further enhancements can be made to improve the customer experience and increase overall engagement. For instance, the team should look to decrease the time it takes to complete steps 2 and 3. Possibly by improving the prompts that were newly introduced to the UI. Additionally, higher error rates were observed in the new UI which should be addressed by improving the instructions and clarity of paticularly steps 1 and 2.
 
 ## Tableau
 Explore the interactive visualizations using Tableau through the link:
-- [Client Demographics](https://public.tableau.com/app/profile/ryan.van.den.akker2210/viz/Vanguard-ClientDemographics/Demographics)\
+- [Client Demographics](https://public.tableau.com/app/profile/ryan.van.den.akker2210/viz/Vanguard-ClientDemographics/Demographics)
 - [KPIs](https://public.tableau.com/app/profile/ryan.van.den.akker2210/viz/Vanguard-KPIs/KPIs)
 
 ## Libraries Used
