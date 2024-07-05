@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In response to growing competition in the field of investments, Vanguard implemented a modernized user interface (UI) with timely in-context prompts to improve customer experience in an attempt to turn the tide. Data between the 15th of March to 20th June 2017 were collected from an A/B test consisting of a control group using the previous UI and a test group using the updated UI. We analyzed client's interaction on the UI to assess whether the modernized UI boosted client's pverall engagement and user experience. Through data cleaning, exploratory data analysis, key performance indicators, and hypothesis testing, we determined whether the redesign of the UI was effective. 
+In response to growing competition in the field of investments, Vanguard implemented a modernized user interface (UI) with timely in-context prompts to improve customer experience in an attempt to turn the tide. Data between the 15th of March to 20th June 2017 were collected from an A/B test consisting of a control group using the previous UI and a test group using the updated UI. We analyzed client's interaction on the UI to assess whether the modernized UI boosted client's overall engagement and user experience. Through data cleaning, exploratory data analysis, key performance indicators, and hypothesis testing, we determined whether the redesign of the UI was effective. 
 
 ## Datasets
 - **Client Profile:** Profile, account details, and client activity
